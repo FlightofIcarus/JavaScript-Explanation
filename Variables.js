@@ -6,7 +6,7 @@ let nameOfYourVariable = "Vabiable's value"
 
 const nameOfYourVariable = "Vabiable's value"
 
-// The variables may receive trhee tips of value. String, number and booleans.
+// The variables may receive three types of value. String, number and booleans.
 
 
 // Strings are used when you declare texts. String declaration are does with text value between "". In JavaScript you may change "" for ''. Both modes is correct.
