@@ -13,7 +13,7 @@ const nameOfYourVariable = "Vabiable's value"
 
 var stringVariable = "My text."
 
-// Numbers are used when you declare numbers in your variable and think in use this number for matematics operations. The numbers declareteds wiht string mode are trated equal a string text, and if you use this in sum operations, the result be concatenation, not a sum. The number type variables may have two value's types. Integer and fractional (float). Integer numbers are declareteds using a number without decimals, ande a float numbers are declareteds with decimals after dot. In both cases, not used "" in yours declarations. Exemples below.
+// Numbers are used when you declare numbers in your variable and think in use this number for matematics operations. The numbers declareteds with string mode are trated equal a string text, and if you use this in sum operations, the result be concatenation, not a sum. The number type variables may have two value's types. Integer and fractional (float). Integer numbers are declareteds using a number without decimals, and a float numbers are declareteds with decimals after dot. In both cases, not used "" in yours declarations. Exemples below.
 
 let integer = 9
 
